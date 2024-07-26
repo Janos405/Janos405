@@ -9,9 +9,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janos405&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janos405&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janos405&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janos405&theme=2077&utcOffset=8)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Janos405&icon=0&color=0)](https://visitcount.itsvg.in)
