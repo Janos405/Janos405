@@ -33,7 +33,7 @@
 
 ## 🎮 Discord Presence:
 <p align="left">
-  <img src="[https://discord.c99.nl/widget/theme-1/1218675195418644480.png](https://discord.c99.nl/widget/theme-2/1383077290052948121.png)" alt="Discord Status"/>
+  <img src="https://discord.c99.nl/widget/theme-1/1218675195418644480.png" alt="Discord Status"/>
 </p>
 
 ---
