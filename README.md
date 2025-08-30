@@ -1,24 +1,26 @@
-<h1 align="center">Hey there 👋 I'm <span style="color:#00BFFF;">S. Jani</span></h1>
-<p align="center"><em>💻 Developer | ⚙️ Automation Enthusiast | 🧠 Tech Explorer</em></p>
+<!-- 🔥 S. Jani - The Automation Alchemist 🔥 -->
+
+<h1 align="center">⚡ S. Jani ⚡</h1>
+<p align="center"><strong>Developer. Hacker. Automator. Dreamer.</strong></p>
+<p align="center"><em>„Nem csak kódolok – varázsolok.”</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+code+what+I+imagine.;I+automate+what+I+repeat.;I+learn+what+I+love." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+tools+that+think.;I+script+chaos+into+order.;I+code+like+it's+magic." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://discord.gg/jza5PYpkB4" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+## 🧠 About Me
+- 🧩 Full-stack thinker with backend blood and frontend flair  
+- ⚙️ Obsessed with automation, scripting, and solving the unsolvable  
+- 🧪 Always experimenting with new tech, from Lua to Go  
+- 🕶️ Living in the terminal, thriving in the cloud  
 
 ---
 
-## 🚀 Tech Arsenal
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -27,22 +29,31 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📈 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janos405&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janos405&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janos405&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janos405&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🎮 Discord Status
+## 🎮 Discord Presence
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1383077290052948121.png" alt="Discord Presence"/>
+  <img src="https://discord.c99.nl/widget/theme-4/1383077290052948121.png" alt="Discord Status"/>
 </p>
 
 ---
 
-## ☕ Support My Work
+## 💬 Connect with Me
+<p align="center">
+  <a href="https://discord.gg/jza5PYpkB4" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💰 Support My Madness
 <p align="center">
   <a href="https://buymeacoffee.com/bojtematyiq" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
@@ -54,9 +65,16 @@
 
 ---
 
+## 🧨 Visitor Counter
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Janos405&icon=5&color=12" alt="Profile Views"/>
 </p>
 
+---
 
+<p align="center">
+  <strong>„A kód nem csak eszköz – ez a fegyverem.”</strong><br>
+  <em>– S. Jani, 2025</em>
+</p>
 
+<!-- ⚡ Built with rage, coffee, and Copilot -->
