@@ -46,7 +46,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.gg/jza5PYpkB4" target="_blank">
+  <a href="https://discord.gg/GrETuCe6hG" target="_blank">
     <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
